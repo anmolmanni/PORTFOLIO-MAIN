@@ -5,6 +5,7 @@ import { styles } from '../styles'
 import { ComputersCanvas } from './canvas';
 import { section } from 'framer-motion/client';
 
+
 const Hero = () => {
   return (
     <section  className="relative w-full h-screen mx-auto">
@@ -22,7 +23,7 @@ const Hero = () => {
               I develop 3D visuals, user <br className='sm:block hidden'/> interface and web applications.
           </p>
         </div>
-      
+
       </div>
       < ComputersCanvas />
     </section>
