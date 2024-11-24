@@ -10,12 +10,12 @@ const Computers = () => {
 
   return (
     <mesh>
-      <hemisphereLight intensity={0.15} 
-      groundColor="white" />
+      <hemisphereLight intensity={1.5} 
+      groundColor="black" />
       <pointLight intensity={1}/>
       <spotLight
         position={[-20, 50, 10]}
-        angle={0.12}
+        angle={0.15}
         penumbra={1}
         intensity={1}
         castShadow
