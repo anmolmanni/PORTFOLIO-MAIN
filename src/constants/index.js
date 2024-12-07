@@ -115,18 +115,18 @@ import {
   
   const experiences = [
     {
-      title: "Intern-Digital Marketing",
-      company_name: "ILP Overseas",
-      icon: ilp,
-      iconBg: "#383E56",
-      date: "Oct 2021 - March 2022",
+      title: "Web Developer",
+      company_name: "Careerguide.com",
+      icon: careerguide,
+      iconBg: "#E6DEDD",
+      date: "Apr 2024 - jul 2024",
       points: [
-        "Optimized social media content for maximum engagement and reach",
-        "Edited and enhanced existing artwork and graphics.",
-        "Employed design fundamentals when selecting typography, composition, layout, and color in design work",
+        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Implementing responsive design and ensuring cross-browser compatibility.",
       ],
     },
-      {
+    {
       title: "Digital Marketing ",
       company_name: "Segel India Pvt Lmt ",
       icon: segel,
@@ -141,15 +141,15 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Careerguide.com",
-      icon: careerguide,
-      iconBg: "#E6DEDD",
-      date: "Apr 2024 - jul 2024",
+      title: "Intern-Digital Marketing",
+      company_name: "ILP Overseas",
+      icon: ilp,
+      iconBg: "#383E56",
+      date: "Oct 2021 - March 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
+        "Optimized social media content for maximum engagement and reach",
+        "Edited and enhanced existing artwork and graphics.",
+        "Employed design fundamentals when selecting typography, composition, layout, and color in design work",
       ],
     },
   ];
