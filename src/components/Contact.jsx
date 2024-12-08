@@ -117,7 +117,7 @@ const Contact = () => {
             <textarea 
               rows="7"
               name='message'
-              value={form.name}
+              value={form.message}
               onChange={handleChange}
               placeholder="What's do you want to say?"
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none'
