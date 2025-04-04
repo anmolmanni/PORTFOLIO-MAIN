@@ -74,5 +74,3 @@ const ComputersCanvas =()=>{
 
 export default ComputersCanvas;
 
-import React from 'react'
-
